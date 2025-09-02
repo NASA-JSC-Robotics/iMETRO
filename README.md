@@ -10,16 +10,20 @@ The iMETRO goal is to increase the availability of end-to-end systems enabling r
 
 These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
 
-> **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process. This should be available very soon.
+> **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process. 
+This should be available very soon, find an example [here](https://github.com/NASA-JSC-Robotics/mujoco_ros2_simulation).
 
-## iMETRO Software
+Interested in collaborating? Have questions? Want to reach out? 
+You can find out more information and [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
 
-- The software includes:
-  - Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
-  - ros2_control controllers for controlling the various joints of the robots
-  - Basic MoveIt2 configurations for robots for interfacing with the systems from an application layer
-  - Models of mock-ups for space use cases, such as the crew access hatch and logistics stowage task trainer
-  - ros2_control hardware interfaces for interacting with the physical hardware (not used in sim)
+## Software Features
+
+The iMETRO facility includes software to enable rapid integration and testing:
+- Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
+- ros2_control controllers for controlling the various joints of the robots
+- Basic MoveIt2 configurations for robots for interfacing with the systems from an application layer
+- Models of mock-ups for space use cases, such as the crew access hatch and logistics stowage task trainer
+- ros2_control hardware interfaces for interacting with the physical hardware (not used in sim)
 
 ## Physical Facility Features
 
@@ -57,3 +61,5 @@ These systems include ground control user interfaces and software for managing r
 - See [the iMETRO poster](https://ntrs.nasa.gov/api/citations/20240013956/downloads/iMETRO%20Year%202%20Poster.pdf) for an early poster of the work
 - See [our video](https://ntrs.nasa.gov/citations/20240007666) of utilizing the facility to perform a maintenance demonstration
 - A paper describing the facility published at the [Ubiquitous Robots](https://2025.ubiquitousrobots.org/) conference will be available soon
+
+
