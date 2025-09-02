@@ -1,8 +1,12 @@
-# Integrated Mobile Evaluation Testbed for Robotics Operations (iMETRO)
+
+
+![imetro ](resources/iMetro_BW.png)
+
+# iMETRO: Integrated Mobile Evaluation Testbed for Robotics Operations
 
 iMETRO is a facility designed to catalyze the adaptation of advanced terrestrial robotic technologies for space exploration use cases - such as logistics, maintenance, and science utilization within environments designed for human exploration on the Lunar and Martian surfaces.
-The iMETRO focus is on Intra-Vehicular Activity (IVA) environments, such as surface habitats, pressurized rover cabins, and space station internal modules.
-The iMETRO goal is to increase the availability of end-to-end systems enabling remote operation of robots in space supervised by humans on Earth.
+With focus on Intra-Vehicular Activity (IVA) environments of surface habitats, pressurized rover cabins, and space station internal modules iMETRO is home for high fidelity mockups and test beds.
+The iMETRO goal is to increase the availability of end-to-end systems enabling remote operation of robots in space facilitated by humans on Earth.
 
 These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
 
@@ -27,7 +31,7 @@ These systems include ground control user interfaces and software for managing r
 
 ## Available Robots
 
-### Linear rail-mounted single manipulator (available now)
+### Linear rail-mounted single manipulator (available now!)
 
 - Universal Robots UR10e
 - Robotiq hand-E Gripper w/ Custom Fingers
@@ -38,7 +42,7 @@ These systems include ground control user interfaces and software for managing r
 ### Mobile Base Dual Manipulator (in development)
 
 - Universal Robots UR5e (2x)
-- Robotiq Hand-E Grippers with Custom Fingers
+- Robotiq Hand-E Grippers w/ Custom Fingers
 - Arms mounted to dual, independent lift-kits of 500mm Stroke
 - Clearpath Ridgeback Wheeled Mobile Base
 - Intel® RealSense™ Wrist-Mounted Depth Cameras
