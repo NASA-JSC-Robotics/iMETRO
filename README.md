@@ -52,4 +52,18 @@ These systems include ground control user interfaces and software for managing r
 
 - See [the iMETRO poster](https://ntrs.nasa.gov/api/citations/20240013956/downloads/iMETRO%20Year%202%20Poster.pdf) for an early poster of the work
 - See [our video](https://ntrs.nasa.gov/citations/20240007666) of utilizing the facility to perform a maintenance demonstration
-- A paper describing the facility published at the [Ubiquitous Robots](https://2025.ubiquitousrobots.org/) conference will be available soon
+
+### Citation
+If you use this software in your own work, please use cite the following paper:
+```bibtex
+@INPROCEEDINGS{imetro-facility-2025,
+  author={Dunkelberger, Nathan and Sheetz, Emily and Rainen, Connor and Graf, Jodi and Hart, Nikki and Zemler, Emma and Azimi, Shaun},
+  booktitle={2025 22nd International Conference on Ubiquitous Robots (UR)}, 
+  title={Design of the iMETRO Facility: A Platform for Intravehicular Space Robotics Research}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={390-397},
+  keywords={NASA;Moon;Seals;Maintenance engineering;Maintenance;Robots;Standards;Open source software;Testing;Logistics},
+  doi={10.1109/UR65550.2025.11077983}}
+```
