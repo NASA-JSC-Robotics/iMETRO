@@ -19,6 +19,6 @@ preferred-citation:
     given-names: "Shaun"
   title: "Design of the iMETRO Facility: A Platform for Intravehicular Space Robotics Research"
   doi: 10.1109/UR65550.2025.11077983
-  booktitle: "2025 22nd International Conference on Ubiquitous Robots (UR)"
+  collection-title: "2025 22nd International Conference on Ubiquitous Robots (UR)"
   year: 2025
   pages: {390-397}
