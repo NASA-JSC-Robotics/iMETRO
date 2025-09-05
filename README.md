@@ -13,8 +13,8 @@ These systems include ground control user interfaces and software for managing r
 > **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process. 
 This should be available very soon, find an example [here](https://github.com/NASA-JSC-Robotics/mujoco_ros2_simulation).
 
-Interested in collaborating? Have questions? Want to reach out? 
-You can find out more information and [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
+### Interested in collaborating? Want to reach out? E-mail us at jsc-dl-robotics@mail.nasa.gov
+Additionally you can [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
 
 ## Software Features
 
