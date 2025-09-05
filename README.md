@@ -35,6 +35,12 @@ These systems include ground control user interfaces and software for managing r
 - Ewellix Telescoping Lift Kit with 700mm Stroke
 - Intel® RealSense™ Wrist-Mounted Depth Camera
 
+The primary description and deployment package are available in [chonkur_l_raile](https://github.com/NASA-JSC-Robotics/chonkur_l_raile).
+
+We also include the base containerized workflow for deploying the controllers on hardware, a kinematic simulation, and a dynamic simulation in [clr_ws](https://github.com/NASA-JSC-Robotics/clr_ws).
+
+Lastly, sample applications and demonstrations are included in the [clr_demo_ws](https://github.com/NASA-JSC-Robotics/clr_demo_ws).
+
 ### Mobile Base Dual Manipulator (in development)
 
 - Universal Robots UR5e (2x)
