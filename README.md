@@ -10,7 +10,7 @@ The iMETRO goal is to increase the availability of end-to-end systems enabling r
 
 These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
 
-> **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process. 
+> **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process.
 This should be available very soon, find an example [here](https://github.com/NASA-JSC-Robotics/mujoco_ros2_simulation).
 
 ### Interested in collaborating? Want to reach out? E-mail us at jsc-dl-robotics@mail.nasa.gov
