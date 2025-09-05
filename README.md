@@ -77,5 +77,3 @@ If you use this software in your own work, please cite the following paper:
   keywords={NASA;Moon;Seals;Maintenance engineering;Maintenance;Robots;Standards;Open source software;Testing;Logistics},
   doi={10.1109/UR65550.2025.11077983}}
 ```
-
-
