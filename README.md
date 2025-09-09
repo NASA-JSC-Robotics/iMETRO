@@ -1,4 +1,4 @@
-![imetro ](resources/iMetro_BW.png)
+![imetro ](resources/iMetro_WB.png)
 
 # iMETRO: Integrated Mobile Evaluation Testbed for Robotics Operations
 
@@ -9,15 +9,11 @@ The iMETRO goal is to increase the availability of end-to-end systems enabling r
 These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
 
 > **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process.
-> This should be available very soon, find an example [here](https://github.com/NASA-JSC-Robotics/mujoco_ros2_simulation).
-
-### Interested in collaborating? Want to reach out? E-mail us at jsc-dl-robotics@mail.nasa.gov
-
-Additionally you can [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
+> Find an example [here](https://github.com/NASA-JSC-Robotics/clr_ws).
 
 ## Software Features
 
-The iMETRO facility includes software to enable rapid integration and testing:
+The iMETRO facility includes robot software for:
 
 - Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
 - ros2_control controllers for controlling the various joints of the robots
@@ -77,3 +73,11 @@ If you use this software in your own work, please cite the following paper:
   keywords={NASA;Moon;Seals;Maintenance engineering;Maintenance;Robots;Standards;Open source software;Testing;Logistics},
   doi={10.1109/UR65550.2025.11077983}}
 ```
+
+### Contact Information
+
+If you have any questions create and issue!
+
+You can see other robotics projects and services and [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
+
+Additionally you can e-mail us at jsc-dl-robotics@mail.nasa.gov
