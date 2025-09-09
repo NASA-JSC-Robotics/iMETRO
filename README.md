@@ -18,7 +18,7 @@ Additionally you can [**Connect With Us HERE**](https://www.nasa.gov/reference/j
 
 ## Software Features
 
-The iMETRO facility includes software to enable rapid integration and testing:
+The iMETRO facility includes robot software for:
 - Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
 - ros2_control controllers for controlling the various joints of the robots
 - Basic MoveIt2 configurations for robots for interfacing with the systems from an application layer
