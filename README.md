@@ -35,7 +35,7 @@ The iMETRO facility includes robot software for:
 
 ## Available Robots
 
-### Linear rail-mounted single manipulator (available now!)
+### Linear rail-mounted single manipulator
 
 - Universal Robots UR10e
 - Robotiq hand-E Gripper w/ Custom Fingers
