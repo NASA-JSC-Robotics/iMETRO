@@ -4,7 +4,7 @@
 # iMETRO: Integrated Mobile Evaluation Testbed for Robotics Operations
 
 iMETRO is a facility designed to catalyze the adaptation of advanced terrestrial robotic technologies for space exploration use cases - such as logistics, maintenance, and science utilization within environments designed for human exploration on the Lunar and Martian surfaces.
-With focus on Intra-Vehicular Activity (IVA) environments of surface habitats, pressurized rover cabins, and space station internal modules iMETRO is home for high fidelity mockups and test beds.
+With focus on Intra-Vehicular Activity (IVA) environments of surface habitats, pressurized rover cabins, and space station internal modules iMETRO offers integration and insight to high fidelity mockups and test beds.
 The goal of iMETRO is to increase the availability of end-to-end systems, enabling remote operation of robots in space facilitated by humans on Earth.
 
 These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
