@@ -77,7 +77,7 @@ If you use this software in your own work, please cite the following paper:
 
 ### Contact Information
 
-If you have any questions create and issue!
+If you have any questions create an issue!
 
 You can see other robotics projects and services and [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
 
