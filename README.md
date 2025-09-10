@@ -1,4 +1,5 @@
 ![imetro ](resources/iMetro_WB.png)
+![imetro ](resources/imetro_full_border.png)
 
 # iMETRO: Integrated Mobile Evaluation Testbed for Robotics Operations
 
