@@ -14,7 +14,6 @@ These systems include ground control user interfaces and software for managing r
 ## Software Features
 
 The iMETRO facility includes robot software for:
-
 - Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
 - ros2_control controllers for controlling the various joints of the robots
 - Basic MoveIt2 configurations for robots for interfacing with the systems from an application layer
@@ -31,7 +30,7 @@ The iMETRO facility includes robot software for:
 
 ## Available Robots
 
-### Linear rail-mounted single manipulator (available now!)
+### Linear rail-mounted single manipulator
 
 - Universal Robots UR10e
 - Robotiq hand-E Gripper w/ Custom Fingers
