@@ -1,21 +1,26 @@
-# Integrated Mobile Evaluation Testbed for Robotics Operations (iMETRO)
+![imetro ](resources/imetro_full_border.png)
 
-iMETRO is a facility designed to catalyze the adaptation of advanced terrestrial robotic technologies for space exploration use cases - such as logistics, maintenance, and science utilization within environments designed for human exploration on the Lunar and Martian surfaces.
-The iMETRO focus is on Intra-Vehicular Activity (IVA) environments, such as surface habitats, pressurized rover cabins, and space station internal modules.
-The iMETRO goal is to increase the availability of end-to-end systems enabling remote operation of robots in space supervised by humans on Earth.
+# iMETRO: Integrated Mobile Evaluation Testbed for Robotics Operations
 
-These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
+iMETRO is a robotics facility housed at NASA's Johnson Space Center with the goal of adapting advanced terrestrial robotic technologies for space exploration applications such as logistics, maintenance, and science utilization tasks.
+These applications are designed for human exploration environments on space stations or the Lunar and Martian surfaces.
+The high fidelity mockups, test beds, and end-to-end systems provided can be used to develop capabilities that enable remote operation of robots in space supervised by humans on Earth.
+Particular focus is given to Intra-Vehicular Activity (IVA) environments of surface habitats, pressurized rover cabins, and space station internal modules.
 
-> **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process. This should be available very soon.
+Some of these systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
 
-## iMETRO Software
+> **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process.
+> Additional packages will be released as noted below.
 
-- The software includes:
-  - Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
-  - ros2_control controllers for controlling the various joints of the robots
-  - Basic MoveIt2 configurations for robots for interfacing with the systems from an application layer
-  - Models of mock-ups for space use cases, such as the crew access hatch and logistics stowage task trainer
-  - ros2_control hardware interfaces for interacting with the physical hardware (not used in sim)
+## Software Features
+
+The iMETRO facility includes robot software for:
+
+- Open-source robot configurations (e.g., URDF, deploy files) for iMETRO robots
+- ros2_control controllers for controlling the various joints of the robots
+- Basic MoveIt2 configurations for robots for interfacing with the systems from an application layer
+- Models of mock-ups for space use cases, such as the crew access hatch and logistics stowage task trainer
+- ros2_control hardware interfaces for interacting with the physical hardware (not used in sim)
 
 ## Physical Facility Features
 
@@ -27,18 +32,24 @@ These systems include ground control user interfaces and software for managing r
 
 ## Available Robots
 
-### Linear rail-mounted single manipulator (available now)
+### Linear rail-mounted single manipulator
 
 - Universal Robots UR10e
-- Robotiq hand-E Gripper w/ Custom Fingers
+- Robotiq hand-E Gripper with Custom Fingers
 - Vention horizontally mounted 2.0m linear rail
 - Ewellix Telescoping Lift Kit with 700mm Stroke
 - Intel® RealSense™ Wrist-Mounted Depth Camera
 
+The primary description and deployment package are available in [chonkur_l_raile](https://github.com/NASA-JSC-Robotics/chonkur_l_raile).
+
+We also include the base containerized workflow for deploying the controllers on hardware, a kinematic simulation, and a dynamic simulation in [clr_ws](https://github.com/NASA-JSC-Robotics/clr_ws).
+
+Lastly, sample applications and demonstrations are included in the [clr_demo_ws](https://github.com/NASA-JSC-Robotics/clr_demo_ws).
+
 ### Mobile Base Dual Manipulator (in development)
 
 - Universal Robots UR5e (2x)
-- Robotiq Hand-E Grippers with Custom Fingers
+- Robotiq Hand-E Grippers w/ Custom Fingers
 - Arms mounted to dual, independent lift-kits of 500mm Stroke
 - Clearpath Ridgeback Wheeled Mobile Base
 - Intel® RealSense™ Wrist-Mounted Depth Cameras
@@ -69,3 +80,9 @@ If you use this software in your own work, please cite the following paper:
   keywords={NASA;Moon;Seals;Maintenance engineering;Maintenance;Robots;Standards;Open source software;Testing;Logistics},
   doi={10.1109/UR65550.2025.11077983}}
 ```
+
+### Contact Information
+
+Questions are best asked through issues.
+
+For more information [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/).
