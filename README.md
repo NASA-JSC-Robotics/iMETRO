@@ -1,16 +1,16 @@
-![imetro ](resources/iMetro_WB.png)
 ![imetro ](resources/imetro_full_border.png)
 
 # iMETRO: Integrated Mobile Evaluation Testbed for Robotics Operations
 
-iMETRO is a facility designed to catalyze the adaptation of advanced terrestrial robotic technologies for space exploration use cases - such as logistics, maintenance, and science utilization within environments designed for human exploration on the Lunar and Martian surfaces.
-With focus on Intra-Vehicular Activity (IVA) environments of surface habitats, pressurized rover cabins, and space station internal modules iMETRO offers integration and insight to high fidelity mockups and test beds.
-The goal of iMETRO is to increase the availability of end-to-end systems, enabling remote operation of robots in space facilitated by humans on Earth.
+iMETRO is a robotics facility housed at NASA's Johnson Space Center with the goal of adapting advanced terrestrial robotic technologies for space exploration applications such as logistics, maintenance, and science utilization tasks.
+These applications are designed for human exploration environments on space stations or the Lunar and Martian surfaces.
+The high fidelity mockups, test beds, and end-to-end systems provided can be used to develop capabilities that enable remote operation of robots in space supervised by humans on Earth.
+Particular focus is given to Intra-Vehicular Activity (IVA) environments of surface habitats, pressurized rover cabins, and space station internal modules.
 
-These systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
+Some of these systems include ground control user interfaces and software for managing robot remote control with realistic latency, bandwidth, and coverage interruptions for various mission environments (e.g., Low Earth Orbit, cis-Lunar, Lunar Surface, Mars Surface).
 
 > **_NOTE:_** The core content referenced in this repository is in the process of being released through NASA's release process.
-> Find an example [here](https://github.com/NASA-JSC-Robotics/clr_ws).
+> Additional packages will be released as noted below.
 
 ## Software Features
 
@@ -35,10 +35,16 @@ The iMETRO facility includes robot software for:
 ### Linear rail-mounted single manipulator
 
 - Universal Robots UR10e
-- Robotiq hand-E Gripper w/ Custom Fingers
+- Robotiq hand-E Gripper with Custom Fingers
 - Vention horizontally mounted 2.0m linear rail
 - Ewellix Telescoping Lift Kit with 700mm Stroke
 - Intel® RealSense™ Wrist-Mounted Depth Camera
+
+The primary description and deployment package are available in [chonkur_l_raile](https://github.com/NASA-JSC-Robotics/chonkur_l_raile).
+
+We also include the base containerized workflow for deploying the controllers on hardware, a kinematic simulation, and a dynamic simulation in [clr_ws](https://github.com/NASA-JSC-Robotics/clr_ws).
+
+Lastly, sample applications and demonstrations are included in the [clr_demo_ws](https://github.com/NASA-JSC-Robotics/clr_demo_ws).
 
 ### Mobile Base Dual Manipulator (in development)
 
@@ -77,8 +83,6 @@ If you use this software in your own work, please cite the following paper:
 
 ### Contact Information
 
-If you have any questions create an issue!
+Questions are best asked through issues.
 
-You can see other robotics projects and services and [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/)
-
-Additionally you can e-mail us at jsc-dl-robotics@mail.nasa.gov
+For more information [**Connect With Us HERE**](https://www.nasa.gov/reference/jsc-robotics/).
