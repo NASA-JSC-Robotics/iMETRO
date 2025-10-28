@@ -46,13 +46,17 @@ We also include the base containerized workflow for deploying the controllers on
 
 Lastly, sample applications and demonstrations are included in the [clr_demo_ws](https://github.com/NASA-JSC-Robotics/clr_demo_ws).
 
-### Mobile Base Dual Manipulator (in development)
+### Mobile Base Dual Manipulator
 
 - Universal Robots UR5e (2x)
 - Robotiq Hand-E Grippers w/ Custom Fingers
 - Arms mounted to dual, independent lift-kits of 500mm Stroke
 - Clearpath Ridgeback Wheeled Mobile Base
 - Intel® RealSense™ Wrist-Mounted Depth Cameras
+
+Base description, package, and deployment files can be found in [phoebe_bridgeback](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback).
+
+Like CLR, a containerized workflow for deploying the robot on hardware, a kinematic simulation, and a full dynamic simulartion are available in [phoebe_bridgeback_ws](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback_ws).
 
 ### Bring Your Own
 
