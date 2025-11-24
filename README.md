@@ -44,7 +44,7 @@ The primary description and deployment package are available in [chonkur_l_raile
 
 We also include the base containerized workflow for deploying the controllers on hardware, a kinematic simulation, and a dynamic simulation in [clr_ws](https://github.com/NASA-JSC-Robotics/clr_ws).
 
-Lastly, sample applications and demonstrations are included in the [clr_demo_ws](https://github.com/NASA-JSC-Robotics/clr_demo_ws).
+Included in that workspace is a basic pick and place demonstration using the dynamic simulation, for more information refer to the [clr_sim_demos](https://github.com/NASA-JSC-Robotics/clr_sim_demos) project.
 
 ### Mobile Base Dual Manipulator
 
