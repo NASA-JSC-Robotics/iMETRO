@@ -46,6 +46,10 @@ We also include the base containerized workflow for deploying the controllers on
 
 Included in that workspace is a basic pick and place demonstration using the dynamic simulation, for more information refer to the [clr_sim_demos](https://github.com/NASA-JSC-Robotics/clr_sim_demos) project.
 
+A video of this demonstration in simulation is shown below.
+
+https://github.com/user-attachments/assets/604accbe-7c7c-43f0-9e32-9c1a6ff31a09
+
 ### Mobile Base Dual Manipulator
 
 - Universal Robots UR5e (2x)
@@ -54,7 +58,9 @@ Included in that workspace is a basic pick and place demonstration using the dyn
 - Clearpath Ridgeback Wheeled Mobile Base
 - Intel® RealSense™ Wrist-Mounted Depth Cameras
 
-Base description, package, and deployment files can be found in [phoebe_bridgeback](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback).
+Base description, package, and deployment files can be found in [phoebe_bridgeback](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback), and a pick and place of a cylinder in simulation is shown below.
+
+[phoebe_cylinder_demo_mujoco_smaller.webm](https://github.com/user-attachments/assets/5b7163dc-ec6b-4832-981f-6030eacea077)
 
 Like CLR, a containerized workflow for deploying the robot on hardware, a kinematic simulation, and a full dynamic simulartion are available in [phoebe_bridgeback_ws](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback_ws).
 
