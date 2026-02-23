@@ -71,6 +71,7 @@ Like CLR, a containerized workflow for deploying the robot on hardware, a kinema
 
 ### Documentation
 
+- See [our paper published at the Ubiquitous Robotics Conference](https://ieeexplore.ieee.org/document/11077983) for a detailed explanation of the facility with an outline of a representative use case
 - See [the iMETRO poster](https://ntrs.nasa.gov/api/citations/20240013956/downloads/iMETRO%20Year%202%20Poster.pdf) for an early poster of the work
 - See [our video](https://ntrs.nasa.gov/citations/20240007666) of utilizing the facility to perform a maintenance demonstration
 
