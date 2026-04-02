@@ -94,6 +94,7 @@ If you use this software in your own work, please cite the following paper:
 ```
 
 If you use the dynamic simulation software in your own work, please cite the following paper:
+
 ```bibtex
 @INPROCEEDINGS{imetro-sim-2026,
   author={Hart, Nikki and Dunkelberger, Nathan and Holum, Erik and Kavraki, Lydia E. and Zemler, Emma and Azimi, Shaun},
