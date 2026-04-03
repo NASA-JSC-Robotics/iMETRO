@@ -62,7 +62,7 @@ Base description, package, and deployment files can be found in [phoebe_bridgeba
 
 [phoebe_cylinder_demo_mujoco_smaller.webm](https://github.com/user-attachments/assets/5b7163dc-ec6b-4832-981f-6030eacea077)
 
-Like CLR, a containerized workflow for deploying the robot on hardware, a kinematic simulation, and a full dynamic simulartion are available in [phoebe_bridgeback_ws](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback_ws).
+Like CLR, a containerized workflow for deploying the robot on hardware, a kinematic simulation, and a full dynamic simulation are available in [phoebe_bridgeback_ws](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback_ws).
 
 ### Bring Your Own
 
