@@ -62,7 +62,7 @@ Base description, package, and deployment files can be found in [phoebe_bridgeba
 
 [phoebe_cylinder_demo_mujoco_smaller.webm](https://github.com/user-attachments/assets/5b7163dc-ec6b-4832-981f-6030eacea077)
 
-Like CLR, a containerized workflow for deploying the robot on hardware, a kinematic simulation, and a full dynamic simulartion are available in [phoebe_bridgeback_ws](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback_ws).
+Like CLR, a containerized workflow for deploying the robot on hardware, a kinematic simulation, and a full dynamic simulation are available in [phoebe_bridgeback_ws](https://github.com/NASA-JSC-Robotics/phoebe_bridgeback_ws).
 
 ### Bring Your Own
 
@@ -74,6 +74,7 @@ Like CLR, a containerized workflow for deploying the robot on hardware, a kinema
 - See [our paper published at the Ubiquitous Robotics Conference](https://ieeexplore.ieee.org/document/11077983) for a detailed explanation of the facility with an outline of a representative use case
 - See [the iMETRO poster](https://ntrs.nasa.gov/api/citations/20240013956/downloads/iMETRO%20Year%202%20Poster.pdf) for an early poster of the work
 - See [our video](https://ntrs.nasa.gov/citations/20240007666) of utilizing the facility to perform a maintenance demonstration
+- See [our International Conference on Robotics and Automation (ICRA) paper](https://ntrs.nasa.gov/citations/20260001395) for information about our MuJoCo simulation and sim-to-real transfer efforts
 
 ### Citation
 
@@ -90,6 +91,18 @@ If you use this software in your own work, please cite the following paper:
   pages={390-397},
   keywords={NASA;Moon;Seals;Maintenance engineering;Maintenance;Robots;Standards;Open source software;Testing;Logistics},
   doi={10.1109/UR65550.2025.11077983}}
+```
+
+If you use the dynamic simulation software in your own work, please cite the following paper:
+
+```bibtex
+@INPROCEEDINGS{imetro-sim-2026,
+  author={Hart, Nikki and Dunkelberger, Nathan and Holum, Erik and Kavraki, Lydia E. and Zemler, Emma and Azimi, Shaun},
+  booktitle={NASA Technical Reports Server},
+  title={The iMETRO Dynamic Simulation: An Open-Source Simulator for Intravehicular Space Robotics Research},
+  year={2026},
+  note={Accepted for publication at the International Conference of Robotics and Automation.},
+  url={https://ntrs.nasa.gov/citations/20260001395}}
 ```
 
 ### Contact Information
